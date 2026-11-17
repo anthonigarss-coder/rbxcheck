@@ -17,7 +17,7 @@ English | [Français](README.fr.md)
 With [uv](https://docs.astral.sh/uv/):
 
 ```bash
-git clone <this repository>
+git clone https://github.com/anthonigarss-coder/rbxcheck
 cd rbxcheck
 uv tool install .      # installs the `rbxcheck` command
 ```

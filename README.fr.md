@@ -17,7 +17,7 @@ matériaux sur un même mesh, UV manquantes, textures énormes, mauvaise échell
 Avec [uv](https://docs.astral.sh/uv/) :
 
 ```bash
-git clone <ce dépôt>
+git clone https://github.com/anthonigarss-coder/rbxcheck
 cd rbxcheck
 uv tool install .      # installe la commande `rbxcheck`
 ```
